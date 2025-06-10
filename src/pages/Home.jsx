@@ -34,7 +34,7 @@ const Home = () => {
                   summarizing, comparing, and understanding policies.
                 </p>
 
-                {/* 👇 Price Prediction Button */}
+                {/* 👇 Price Prediction Button
                 <button
   onClick={() => {
     window.location.href = "https://1b7b-2409-40c4-5d-e9d5-5518-807-3828-4044.ngrok-free.app";
@@ -42,7 +42,7 @@ const Home = () => {
   className="bg-blue-600 text-white px-6 py-2 rounded-lg shadow hover:bg-blue-700 transition-all duration-300"
 >
   Price Prediction
-</button>
+</button> */}
               </div>
 
               {/* Right Image Section */}
